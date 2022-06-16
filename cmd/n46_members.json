@@ -1,0 +1,12 @@
+[
+	{"name": "北野　日奈子", "age": 25, "bloodtype": "O", "origin": "千葉県"},
+	{"name": "衛藤　美彩", "age": 29, "bloodtype": "AB", "origin": "大分県"},
+	{"name": "久保　史緒里", "age": 20, "bloodtype": "O", "origin": "宮城県"},
+	{"name": "斉藤　優里", "age": 28, "bloodtype": "O", "origin": "東京都"},
+	{"name": "桜井　玲香", "age": 28, "bloodtype": "A", "origin": "神奈川県"},
+	{"name": "阪口　珠美", "age": 20, "bloodtype": "A", "origin": "東京都"},
+	{"name": "白石　麻衣", "age": 29, "bloodtype": "A", "origin": "群馬県"},
+	{"name": "西野　七瀬", "age": 28, "bloodtype": "O", "origin": "大阪府"},
+	{"name": "若月　佑美", "age": 27, "bloodtype": "O", "origin": "静岡県"},
+	{"name": "与田　祐希", "age": 22, "bloodtype": "O", "origin": "福岡県"}
+]
